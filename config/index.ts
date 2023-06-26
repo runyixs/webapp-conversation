@@ -1,11 +1,11 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = ''
-export const API_KEY = ''
-export const API_URL = ''
+export const APP_ID = '308bcb2f-2134-455c-a58c-88a93118c621'
+export const API_KEY = 'app-3B3D6InFU2kORPwm4fEU3PQr'
+export const API_URL = 'http://18.166.163.252:30800/v1'
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
+  title: 'JRFX 客服',
   description: '',
-  copyright: '',
+  copyright: 'JRFX版权所有',
   privacy_policy: '',
   default_language: 'zh-Hans',
 }
